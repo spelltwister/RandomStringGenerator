@@ -2,6 +2,15 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard1.3</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Michael Pavlak</Authors>
+    <Company>Visual Chimera, LLC</Company>
+    <Description>Random string generator targeting netstandard1.3</Description>
+    <Copyright>Visual Chimera, LLC</Copyright>
+    <PackageProjectUrl>https://github.com/spelltwister/RandomStringGenerator</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/spelltwister/RandomStringGenerator</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>Random String Generator</PackageTags>
   </PropertyGroup>
 
 </Project>
